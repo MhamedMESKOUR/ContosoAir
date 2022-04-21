@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/MhamedMeskour/PartsUnlimited/_apis/build/status/MhamedMESKOUR.ContosoAir?branchName=master)](https://dev.azure.com/MhamedMeskour/PartsUnlimited/_build/latest?definitionId=2&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
